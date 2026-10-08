@@ -1,0 +1,6 @@
+data/*.csv
+data/*.zip
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
